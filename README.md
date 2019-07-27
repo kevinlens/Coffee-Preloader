@@ -1,6 +1,6 @@
 # Coffee-Preloader
 
-Coffee Cup Animatioon for anything you may need
+Coffee Cup Animation for anything you may need
 
 
 
